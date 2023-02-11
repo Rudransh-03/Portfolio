@@ -31,7 +31,7 @@ const Services = () => {
           <br />
           in the last few months.
         </spane>
-        <a href="https://drive.google.com/file/d/1LYf8BlcSLzfbq7Jk3sQHPCLz7lHkKD_S/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/13Q_oarETpZzrgIDjLo5zqH7FgKK2Wphq/view?usp=sharing">
           <button className="button s-button">View CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
@@ -87,3 +87,4 @@ const Services = () => {
 };
 
 export default Services;
+
